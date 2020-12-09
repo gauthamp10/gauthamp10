@@ -14,13 +14,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Welcome to my Github Account . 
+### Welcome to my Github... 
 
 ### Every project here is [![forthebadge](https://forthebadge.com/images/badges/open-source.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
 
 --------------------------------------------
 
-### Apprentice as Freelancer at [Self-Employed](https://gauthamp10.github.io/contact.html)
+### Apprentice as Freelancer at [Self-Employed](https://gauthamp10.github.io/)
 
 - 🌱 I’m currently working at home.
 
