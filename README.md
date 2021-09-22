@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+
+![Uploading my-fav-sticker.gif…]()
+
+
 <!--
 **gauthamp10/gauthamp10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
