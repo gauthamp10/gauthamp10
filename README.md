@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-![my-fav-sticker](https://user-images.githubusercontent.com/31800012/134291197-fd83eea7-4e06-4b47-ac64-c5ef63dc2a7e.gif)
-
+![my-gif](https://user-images.githubusercontent.com/31800012/134291990-d9efb097-9dbf-4e9e-b584-24158a032794.gif)
 
 <!--
 **gauthamp10/gauthamp10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
