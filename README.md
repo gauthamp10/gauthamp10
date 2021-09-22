@@ -1,7 +1,6 @@
 ### Hi there 👋
 
 ![my-gif](https://user-images.githubusercontent.com/31800012/134291990-d9efb097-9dbf-4e9e-b584-24158a032794.gif)
-
 <!--
 **gauthamp10/gauthamp10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Welcome to my Github... 
+### Welcome to my Github profile
 
 ### Every project here is [![forthebadge](https://forthebadge.com/images/badges/open-source.svg)](https://gauthamp10.github.io/) [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://gauthamp10.github.io/)
 
