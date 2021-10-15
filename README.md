@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 --------------------------------------------
 
-### Apprentice as Freelancer at [Self-Employed](https://gauthamp10.github.io/)
+### Freelancer at [Self-Employed](https://gauthamp10.github.io/)
 
 - 🌱 I’m currently working at home.
 
